@@ -1,0 +1,11 @@
+#!/data/data/com.termux/files/usr/bin/bash
+
+#make dir
+mkdir /sdcard/Download/DRAGON_PAK
+mkdir /sdcard/Download/DRAGON_PAK/GAME_PACH_OUT
+
+#permission excute
+chmod +x setupv2
+
+#run
+./setupv2
